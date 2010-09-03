@@ -1,2 +1,2 @@
 # Include hook code here
-require 'database2fixture'
+require 'database2fixtures'
